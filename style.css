@@ -10,7 +10,7 @@ div {
     border-color: black;
     padding: 2%;
 }
-div:last-child {
+div:last-of-type {
     border-bottom: none;
 }
 div:hover {
